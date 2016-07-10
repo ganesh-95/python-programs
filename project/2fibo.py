@@ -1,3 +1,7 @@
+"""
+sum of even elements in a fibonacci series 
+"""
+
 prev, cur = 0, 1
 sum = 0
 

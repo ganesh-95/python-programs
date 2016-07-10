@@ -1,4 +1,8 @@
-N = int(raw_input())
+"""
+sum of integers in a given array 
+"""
+
+
 
 array = map(int, raw_input().split())
 
