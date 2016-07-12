@@ -1,0 +1,5 @@
+
+n = input()
+def sum():
+    total = 0
+    
